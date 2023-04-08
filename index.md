@@ -21,12 +21,13 @@ Method
 
 Resources 
 ---- 
- - Kenny.com
+ - [Kenny](https://www.kenney.nl/)
  - python
  - pycat 🐱🐈🙀 
 
 Code
 ----
+~~~python
 from pycat.core import Window, Sprite, Scheduler, RotationMode, Label, Color, KeyCode, Player
 import random
 from random import randint
@@ -136,3 +137,4 @@ fire = window.create_sprite(Fire)
 
 
 window.run()
+~~~
