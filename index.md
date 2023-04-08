@@ -3,8 +3,7 @@ Hello World
 
 A lovly game where you can have some fun with UFOs 🛸 
 
-![image](https://user-images.githubusercontent.com/98509628/230703302-17a453d2-7a51-4817-a4c7-63158184f6a4.png)
-
+![image](https://user-images.githubusercontent.com/98509628/230703797-a10606a9-8632-4032-b673-7fbf0f5e0d8c.png)
 
 Features 
 -----
@@ -36,7 +35,7 @@ from random import randint
 import random
 
 
-window = Window(background_image='bg.jpg')
+window = Window(background_image='bg.png')
 window.background_sprite.scale = 1.6
 
 
