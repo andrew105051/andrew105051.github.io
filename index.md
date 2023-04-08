@@ -3,6 +3,8 @@ Hello World
 
 A lovly game where you can have some fun with UFOs 🛸 
 
+![image](https://user-images.githubusercontent.com/98509628/230703302-17a453d2-7a51-4817-a4c7-63158184f6a4.png)
+
 
 Features 
 -----
@@ -22,8 +24,8 @@ Method
 Resources 
 ---- 
  - [Kenny](https://www.kenney.nl/)
- - python
- - pycat 🐱🐈🙀 
+ - [python](https://www.python.org/)
+ - [pycat](https://baike.baidu.hk/item/Pycat/5853413)🐱🐈🙀
 
 Code
 ----
