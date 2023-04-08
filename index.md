@@ -134,8 +134,5 @@ ufo = window.create_sprite(UFO)
 eufo = window.create_sprite(EUFO)
 fire = window.create_sprite(Fire)
 
- 
-# shoot = window.create_sprite(Shoot)
-
 
 window.run()
